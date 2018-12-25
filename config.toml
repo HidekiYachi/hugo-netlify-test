@@ -1,0 +1,3 @@
+baseURL = "http://yh-hugo-netlify-sample.netlify.com/"
+languageCode = "ja"
+title = "My New Hugo Site"
